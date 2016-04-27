@@ -12,14 +12,14 @@
 -- Os 2 alunos do grupo devem também indentificar-se nos comentários abaixo.
 --
 -- Aluno 1
--- Número: Catarina Cardoso
--- Nome: A75037
--- Curso: MiEI
+-- Número: A75037
+-- Nome: Catarina Cardoso
+-- Curso: MIEI
 --
 -- Aluno 2
 -- Número: Pedro Oliveira
--- Nome:
--- Curso: MiEI
+-- Nome: A75521
+-- Curso: MIEI
 --
 
 
